@@ -23,6 +23,7 @@
 [+] pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
 
 [-----------------Run Alex Tools--------------]
+
 [+] rm -rf ALEX
 
 [+] git clone https://github.com/HLS706/ALEX.git
